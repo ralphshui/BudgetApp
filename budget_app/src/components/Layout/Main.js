@@ -1,8 +1,6 @@
-import React, { useState, useContext, useEffect } from 'react'
+import React from 'react'
 import SideBar from './SideBar.js'
 import NavBar from './NavBar.js'
-
-import AddIncomeToAcc from '../HOC/AddIncomeToAcc'
 
 const Main = () => {
   

@@ -1,9 +1,7 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 import { format } from 'date-fns';
-import { useLocation, useNavigate } from "react-router-dom";
 
 import coolmonkey from '../../images/cool-monkey.jpg'
-
 import StatisticsDetails from './StatisticsDetails.js'
 import { useCurrentUser } from "../../CurrentUserContext"
 

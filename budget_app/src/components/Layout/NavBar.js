@@ -1,6 +1,5 @@
 import React from 'react'
 import { format } from 'date-fns';
-import {  useNavigate } from "react-router-dom";
 import { useCurrentUser } from "../../CurrentUserContext"
 
 import coolmonkey from '../../images/cool-monkey.jpg'
